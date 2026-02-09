@@ -1,0 +1,21 @@
+git config --global user.name "Siam "
+git config --global user.email "hmsiam765@gmail.com "
+
+git init 
+
+git remote add origin https://github.com/hmsiam765-glitch/Siam.git
+
+git push -u origin main
+
+git branch -M main
+
+git add Text.txt
+
+git commit -m " 1st commit "
+
+git push -u origin main
+
+last a 
+git add .
+
+git commit -m " 2nd commit "
